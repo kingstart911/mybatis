@@ -14,6 +14,11 @@ public class XueXiController {
     @GetMapping("welcome")
     public int test(){
 
+
+
+
+
+
     String code="25K";
         System.out.println("欢迎来到新世界！");
         i++;
